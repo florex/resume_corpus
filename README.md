@@ -1,5 +1,5 @@
 # resume_corpus
-multi-labeled dataset of resumes labeled with occupations. Resumes files have the extension .txt and the corresponding labels have the extension .lab.
+multi-labeled dataset of resumes labeled with occupations. Resumes files have the extension .txt and the corresponding labels are in a file with extension .lab.
 
 This dataset contains 3 files :
 - resumes_corpus.zip : This file contains a set of resumes files with the extension ".txt" with the corresponding list of labels in a file with the extension .lab
